@@ -2,8 +2,8 @@ Redmine::Plugin.register :attachments_description_text do
   name 'Redmine attachments description to text'
   author 'Alexey Smirnov'
   description 'This is a plugin for Redmine, change attachments description type from string to text'
-  version '0.0.1'
-  #url 'https://github.com/apsmir/redmine_extend'
+  version '1.0'
+  url 'https://github.com/apsmir/attachments_description_text'
   author_url 'https://github.com/apsmir'
 
 end
